@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 #### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [网站又支棱起来了](https://dmim.dev/site/site_init/)
+- [关于本站](https://dmim.dev/about/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Connect with me:</h4>
