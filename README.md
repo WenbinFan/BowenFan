@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔗  Connect with me
+
+[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/FrankWenbin)
+
+🛠️  Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,laravel,cloudflare,docker,git,github,gitlab,md,mysql,nginx,php,sqlite,svg,swift,wordpress,twitter,instagram,discord,bots)](https://skillicons.dev)
