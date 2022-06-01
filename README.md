@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/frankwenbin" target="blank"><img src="https://img.shields.io/twitter/follow/frankwenbin?logo=twitter&style=for-the-badge" alt="frankwenbin" /></a> </p>
 
-#### 📕  Latest Blog Posts
+ 📕  **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [网站又支棱起来了](https://dmim.dev/site/site_init/)
 - [关于本站](https://dmim.dev/about/)
 <!-- BLOG-POST-LIST:END -->
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">🔗 Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/frankwenbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frankwenbin" height="30" width="40" /></a>
 <a href="/dmim.dev/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="dmim.dev/index.xml" height="30" width="40" /></a>
