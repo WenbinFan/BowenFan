@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Digital Nomads 🏄‍♀️
+
 <!--
 **FANWENBIN/FANWENBIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔗  Connect with me
+
+📫  How to reach me
 
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/FrankWenbin)
+
 
 🛠️  Languages and Tools
 
