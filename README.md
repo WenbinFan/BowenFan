@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
  📕  **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [618 购物分享（2022 版）](https://dmim.dev/posts/daily/2022-618-shopping/)
 - [使用 Docker 安装 Wiki.js 引擎](https://dmim.dev/posts/tech/wikijs-install/)
 - [Aqara P3 空调伴侣重置](https://dmim.dev/posts/aqara-p3-reset/)
 - [威联通 QNAP 安装 Docker 版本电子书管理 calibre-web](https://dmim.dev/posts/tech/calibre-web-install/)
