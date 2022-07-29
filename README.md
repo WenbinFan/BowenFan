@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
  📕  **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Docker 安装 Remark42](https://dmim.dev/posts/tech/remark42-install/)
 - [618 购物分享（2022 版）](https://dmim.dev/posts/daily/2022-618-shopping/)
 - [使用 Docker 安装 Wiki.js 引擎](https://dmim.dev/posts/tech/wikijs-install/)
 - [Aqara P3 空调伴侣重置](https://dmim.dev/posts/aqara-p3-reset/)
 - [威联通 QNAP 安装 Docker 版本电子书管理 calibre-web](https://dmim.dev/posts/tech/calibre-web-install/)
-- [网站又支棱起来了](https://dmim.dev/posts/site/site-init/)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">🔗 Connect with me:</h4>
