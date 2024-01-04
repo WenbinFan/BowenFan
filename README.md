@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Bowen</h1>
 <h3 align="center">I'm Digital Nomads 🏄‍♀️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wenbinfan&label=Profile%20views&color=0e75b6&style=flat" alt="wenbinfan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bowen0829&label=Profile%20views&color=0e75b6&style=flat" alt="Bowen0829" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Bowen0829" target="blank"><img src="https://img.shields.io/twitter/follow/frankwenbin?logo=twitter&style=for-the-badge" alt="frankwenbin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Bowen0829" target="blank"><img src="https://img.shields.io/twitter/follow/bowen0829?logo=twitter&style=for-the-badge" alt="Bowen0829" /></a> </p>
 
  📕  **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
